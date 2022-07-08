@@ -1,1 +1,1 @@
-# Cali_House_LR
+Imputed, encoded, scaled, and normalised California housing data. Then utilized scikit-learn to implement multiple linear regression using stochastic gradient descent to predict house prices. Finished by plotting predictions and targets against original features.
